@@ -1,1 +1,0 @@
-## http://www.hewebgl.com/article/articledir/1  three.js
